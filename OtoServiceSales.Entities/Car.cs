@@ -17,7 +17,7 @@ namespace OtoServiceSales.Entities
         public int ModelsYear{ get; set; }
         public bool Sale { get; set; }
         public string Notes{ get; set; }
-        public virtual Brand Brand { get; set; } // Connection between vehicle class and brand class 
+        //public virtual Brand Brands { get; set; } 
 
 
 

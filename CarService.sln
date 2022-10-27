@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoServiceSales.WindowsApp", "OtoServiceSales.WindowsApp\OtoServiceSales.WindowsApp.csproj", "{D2B0B453-A5FD-4C99-A374-96EC823009AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoServices.WindowsApp", "OtoServiceSales.WindowsApp\OtoServices.WindowsApp.csproj", "{D2B0B453-A5FD-4C99-A374-96EC823009AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoServiceSales.Entities", "OtoServiceSales.Entities\OtoServiceSales.Entities.csproj", "{4A66327A-E49C-462B-9145-E16500850E6D}"
 EndProject

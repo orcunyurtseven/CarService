@@ -9,7 +9,7 @@ namespace OtoServiceSales.Entities
         public int CustomerId { get; set; }
         public decimal SalesPrice { get; set; }
         public DateTime SalesDate { get; set; }
-        public virtual Car Car { get; set; }
+        //public virtual Car Cars { get; set; }
         public virtual Customer Customer { get; set; }
 
 
