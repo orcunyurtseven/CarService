@@ -18,6 +18,7 @@ namespace OtoServiceSales.Entities
         public int Km { get; set; }
         public int ChassisNo { get; set; }
         public string Note { get; set; }
+       
 
     }
 }
